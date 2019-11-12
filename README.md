@@ -63,3 +63,4 @@ Open http://localhost:3000 to view the app in the browser. The page will reload 
 
 <h2>How to submit your work</h2>
 <p>A patch file is what is required from you to submit. To create a patch file, <a href="https://insidesherpa.s3.amazonaws.com/vinternships/companyassets/Sj7temL583QAYpHXD/create_patch_file_v3a.pdf">follow this guide</a>. Then submit the patch file in the <a href="https://www.insidesherpa.com/modules/R5iK7HMxJGBgaSbvk/EbtbrgmwKbgqcXyGt">JPM Module 3 Page</a>.</p>
+<p>just adding a line here to make the final commit</p>
